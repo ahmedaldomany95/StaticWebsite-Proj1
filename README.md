@@ -12,15 +12,22 @@ The following activities has been performed:
   <li>The S3 bucket has an IAM bucket policy that makes the bucket contents publicly accessible.</li>
 </ol>
 
+
 Website Distribution:
 
 The website is distributed via Cloudfront. CloudFront has been configured to retrieve and distribute website files.
 
-<h3>Site Url:</h3>
+<h3>S3Bucket-proj1-staticwebsite:</h3>
 
-<a href = "http://d21syuvd0qqu8d.cloudfront.net/" target = "_blank">Qasim's Travelog</a>
+
+<a href = "https://s3.console.aws.amazon.com/s3/buckets/proj1-staticwebsite?region=us-east-1&tab=objects" target = "_blank"> Proj1-StaticWebsite </a>
 
 <h3>CloudFront Distribution:</h3>
+
+<a href = " https://us-east-1.console.aws.amazon.com/cloudfront/v3/home?region=us-east-1#/distributions/E2WR82KCSAQJ4Z " target = "_blank">Ahmed Aldomany</a>
+
+
+<h3>Site URL :</h3>
 
 <a href = "http://proj1-staticwebsite.s3-website-us-east-1.amazonaws.com/#" target = "_blank">Ahmed Aldomany Travelog</a>
 
