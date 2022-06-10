@@ -24,4 +24,4 @@ The website is distributed via Cloudfront. CloudFront has been configured to ret
 
 <a href = "http://proj1-staticwebsite.s3-website-us-east-1.amazonaws.com/#" target = "_blank">Ahmed Aldomany Travelog</a>
 
-<img src = "./Website Overview.jpeg">
+<img src = "./website overview.png">
