@@ -24,7 +24,7 @@ The website is distributed via Cloudfront. CloudFront has been configured to ret
 
 <h3>CloudFront Distribution:</h3>
 
-<a href = "https://us-east-1.console.aws.amazon.com/cloudfront/v3/home?region=us-east-1#/distributions/E2WR82KCSAQJ4Z" target = "_blank">CloudFront Distribution</a>
+<a href = "https://d5ltfgkw9qpou.cloudfront.net" target = "_blank">CloudFront Distribution</a>
 
 
 <h3>Site URL :</h3>
